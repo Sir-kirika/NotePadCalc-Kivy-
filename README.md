@@ -199,7 +199,6 @@ Your notes remain available the next time the application is opened.
 * Calculations support basic arithmetic operations.
 * Notes are stored locally on the current device.
 * No cloud synchronization.
-* No note search functionality yet.
 
 ---
 
@@ -223,6 +222,6 @@ Version 1.0
 
 # Author
 
-TTK
+JAMES KIRIKA
 
 Built for fast note taking and quick calculations in a single workspace.
